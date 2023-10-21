@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # About the project
-Thus project is to simplify your reading with summize, an open-source article summarizer 
+This project is to simplify your reading with summize, an open-source article summarizer 
 that transforms lenghty articles into clear and concise summaries.
